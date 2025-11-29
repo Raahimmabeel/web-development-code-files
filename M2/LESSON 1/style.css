@@ -1,0 +1,16 @@
+h1 {
+    color:blue;
+}
+#p1 {
+    color:crimson
+}
+.p2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: limegreen;
+}
+* {
+  background-color: beige;
+}
+#p4,#p5{
+    border:2px solid red;
+}
