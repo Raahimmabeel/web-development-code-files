@@ -1,0 +1,4 @@
+body{
+/*background:linear-gradient(to bottom right,red,blue);*/
+background:radial-gradient(red 10%,blue 30%,black 50%,green);
+}
