@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    color:dimgrey;
+}
+h1 {
+    color:black;
+}
+
+a {
+    color:darkblue;
+text-decoration: none;
+}
+
+a:hover {
+    color: indigo;
+}
+
+ul > li {
+    font-weight: bold;
+}
+
+h1 + p {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ul li:nth-child(3) {
+    background-color: green;
+}
+
+p:not(:first-of-type)
+{
+    text-decoration: underline;
+}
+
+ul li::before
+{
+    content:"🚀 "
+}
+
+a::after {
+    content:"  🪢"
+}
+
+p::first-letter {
+    font-size: 200%;
+    color: darkcyan;
+}
