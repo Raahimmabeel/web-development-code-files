@@ -1,0 +1,14 @@
+#div1{
+border: 4px dashed navy;
+margin: 28px;
+padding: 50px;
+width: 700px;
+}
+#i1{
+float: left;height: 250px;width: 200px;
+}
+#i2{
+    float: right;
+    height: 250px;
+    width: 200px;
+}
