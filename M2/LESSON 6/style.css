@@ -1,0 +1,19 @@
+#p1{
+background-color: chocolate;
+position: static;
+}
+#p2 {
+    opacity: 1;
+    background-color: blueviolet;
+    position: fixed;
+}#p3 {opacity: 0.25;
+    background-color: blue;
+    position: relative;
+}#p4 {opacity: 0.5;
+    background-color: orange;
+    position: absolute;
+}#p5 {opacity: 0.75;
+    bottom: 0;
+    background-color: mediumturquoise;
+    position: sticky;
+}
